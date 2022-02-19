@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Player Insights",
+  "name": "Detailed player insights you definitely don't need",
   "icons": [
     {
       "src": "favicon.ico",
